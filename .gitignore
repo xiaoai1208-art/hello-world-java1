@@ -1,0 +1,9 @@
+# Gradle
+.gradle/
+build/
+
+# Java
+bin/
+
+# OS
+.DS_Store
